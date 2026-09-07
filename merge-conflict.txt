@@ -1,1 +1,1 @@
-Firts line created localy in vscode ,adding text localy to enter merge conflict.Now adding another text localy after merge strategy has been configured
+Firts line created localy in vscode ,adding text localy to enter merge conflict.Now adding another text localy after merge strategy has been configured.Creating merge conflict
